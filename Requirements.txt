@@ -1,0 +1,4 @@
+# No external Python packages are required for the core app.
+# Tkinter and sqlite3 are part of the Python Standard Library.
+# If you want to create an executable, uncomment the following line:
+# pyinstaller
